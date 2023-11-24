@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Java Maven Project - Mumma!</title>
+  <title>Java Maven Project - Bhikesh Khute</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -44,7 +44,7 @@
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h1 class="logo"><a href="index.html">Java Maven Web Project</a></h1>
+      <h1 class="logo"><a href="index.html">Java Maven Web Project - Docker </a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="logo"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
@@ -66,7 +66,7 @@
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Jenkins CI/CD Pipeline</h2>
-                <p class="animate__animated animate__fadeInUp">This project is created by Bhikesh. I have used Eclipse IDE to create a dynamic web project. Added this content in the JSP file and converted the same into maven and created the war package with maven, QA using SonarQube and deployed on Tomcat 9 Server using Jenkins Pipeline along with notifications over Whatsapp and SMS. </p>
+                <p class="animate__animated animate__fadeInUp">This project is created by Bhikesh. I have used Eclipse IDE to create a dynamic web project. Added this content in the JSP file and converted the same into maven and created the war package with maven, QA using SonarQube and deployed on Alpine Tomcat container(~200 MB) using Jenkins Pipeline along with notifications over Whatsapp and SMS. </p>
               </div>
             </div>
           </div>
