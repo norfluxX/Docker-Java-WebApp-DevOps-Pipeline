@@ -8,7 +8,9 @@ The whole project is carried out on AWS Cloud.
 Prerequisite:
 1. Java 17 & Apache Tomcat needs to be installed on the server before Jenkins installation.
 2. JDK8 & Maven 3.9 need to be installed in the tools section of Jenkins as this project is built using jdk8.
-3. "Deploy to Container" plugin also needs to be installed. Note - Not installed by default.
+3. **Deploy to Container** plugin also needs to be installed. Note - Not installed by default.
+4. SonarQube tool along with credentials/token to be configured in the Tools section of Jenkins.
+5. Docker credentials also should be configured in the Credentials section of Jenkins.
 
 Apache Tomcat configuration done in the docker file itself.
 ```
