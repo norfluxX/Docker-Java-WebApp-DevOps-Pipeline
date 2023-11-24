@@ -1,4 +1,3 @@
-![Jenkins_Pipeline](https://github.com/norfluxX/Docker-Java-WebApp-DevOps-Pipeline/assets/35907619/193869bb-66ee-4d2d-a91b-5976b6a3fdaa)
 # Dynamic Web Project developed in Java, packaged using Maven, QA using SonarQube, and deployed on Alpine Tomcat Container(~200MB) using Jenkins pipeline along with notifications.
 Eclipse IDE used to develop the project and the same was converted into maven and was hosted on the Alpine Tomcat Container with the help of the Jenkins tool.
 
